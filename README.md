@@ -1,1 +1,1 @@
-# deep-learnig-for-computer-vision-EECS498
+# deep-learnig-for-computer-vision-eecs598
